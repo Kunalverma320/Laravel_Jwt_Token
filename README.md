@@ -7,22 +7,29 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-<p align="center">
-<p>User Register</p>
-![registerapi](https://github.com/user-attachments/assets/4461bab0-075d-4f8a-81b4-da5d2955c1c1)
 
-</p>
+User Register
+
+
+![registerapi](https://github.com/user-attachments/assets/91c0e90e-e7f8-4de7-b912-399d0efd18fd)
+
+
+User Login
+
+
+![loginapi](https://github.com/user-attachments/assets/77f94fc2-e00d-4a02-b7e7-f16e6c7bf97c)
+
+
+User Profile
+
+
+![profile](https://github.com/user-attachments/assets/49b39256-a3e4-4195-bf77-c451dcfec52c)
+
+
+User refreshtoken
+
+
+![refreshtoken](https://github.com/user-attachments/assets/fa22477a-93a1-448c-a867-6fbc4e10cbec)
